@@ -1,0 +1,53 @@
+
+사이트 설명 관용태그                    <!doctype html>
+사이트를 설명하는 태그 최고위층 태그 <html></html>
+본문을 설명하는 태그                      <head></head>
+본문 태그                                     <body></body>
+
+웹페이지 제목 (검색엔진의 표지)        <title></title>
+
+링크 연결하기 (anchor 닻)                 <a></a>
+
+글씨 찐하게                               <strong></strong>
+ 
+밑줄(underline)                           <u></u>
+
+제목(서식 headings)                     <h1~h6></h1~h6>
+
+줄바꿈(엔터 느낌) [ / 닫기 없음]       <br>
+
+단락 (paragraph)                         <p></p>
+
+단락구분 밑줄 [ / 닫기 없음]                 <hr>
+
+이미지 넣기(image)                        <img>
+
+체크박스 만들기              <input type="checkbox">
+
+부모태그 항목지정 구분짓기(unordered list)           <ul></ul>
+부모태그 항목지정 숫자리스트 생성(ordered list)     <ol></ol>
+하나씩 목차넣기(list)                                        <li></li>   <li>just</li> <li>do</li>
+
+
+CSS
+
+여백만들기
+<p style="margin-top:40px;"></p>
+
+이미지 넣기
+<img src="1.jpg" width="100%">
+
+한글,글자 변환(캐릭터 문자, 셋 규칙)
+<meta charset="utf-8">
+
+링크 연결
+<a href="사이트주소"></a>
+새탭으로 연결
+<a href="사이트주소" target="_blank">
+사이트 주소 설명
+<a href="사이트주소" tilte="사이트설명">
+
+
+댓글 시스템
+디스커스, liveRe
+
